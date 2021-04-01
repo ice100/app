@@ -133,4 +133,4 @@ We will let you know via email /or a prominent notice on our Service, prior to t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us by email.
+If you have any questions about this Privacy Policy, please contact us by email: helpforapp1024@gmail.com .

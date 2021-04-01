@@ -35,4 +35,4 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 1. These Terms of Use may be updated from time to time. You are advised to consult these Terms of Use regularly for any changes.These Terms of Use were updated on 12th March 2021.
 
 ## 6. Contact Information
-1. If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us by email.
+1. If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us by email: helpforapp1024@gmail.com .
