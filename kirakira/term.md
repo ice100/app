@@ -1,38 +1,83 @@
 # TERMS OF USE
 ## These Terms of Use govern your use of the App.
 
-Our Apps are created for numerous different platforms and operating systems (Apple/iOS/Google/Android etc.) and devices (phone, tablet, watch, tv etc.). We create Apps that can be downloaded freely, functioning on the basis of an advertising model, as well as paid version, or functioning on the basis of a subscription model that do not contain advertising. In general, if you do not want us to use your data to tailor the ads that are displayed within the App, you can choose to use the paid version of such App.
+Thanks for using the photo taking and editing service provided by Kirakira Cam. Please be sure to carefully read and fully understand the following terms. When you using the service , you agree to have read and accepted all terms of this agreement; otherwise, please do not use the product.
 
-We makes Apps available to you subject to the following Terms of Use. Do not use the App if you do not accept these Terms of Use. If you use the App, you affirmatively accept these Terms of Use.
+We may revise User Agreement in due course. If you are a minor please read the agreement and use this service with your legal guardian and pay special attention to the terms of use of minors.
 
-## 1. Use of Apps
-1. You agree to use the App only for purposes that are permitted by (a) these Terms of Use and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions. You agree to comply with all local laws and regulations regarding the download, installation and/or use of the App.
+## 1. Contents of the Services
 
-2. By using the App, you are consenting to our processing of data as set forth in our Privacy Policy. Our Privacy Policy is compliant with the General Data Protection Regulation (GDPR).
+The specific content of Kirakira Cam service including but not limited to photo taking, photo editing such as beauty, add sparkle effects & filters and more. We  has the right to upgrade or adjust the service or product it provides, and will update the page/information in a timely manner.You agree that we may, by itself or by any third-party advertiser, send you advertising, promotion or publicity information (including commercial and non-commercial information), the way and scope may be changed without noticing you. We may provide you with the option to turn off advertising information, but at any time you will not be able to shield and filter advertising information in a manner that the User Agreement is not explicitly stipulated or authorized. We performs the relevant obligations for advertisers in accordance with the laws, you should judge the authenticity of advertising information and be responsible for your own judgments. Except for specific legal provisions, for the loss or damage user suffers from the advertisement transactions or the content provided by the advertiser, we doesn't bear any responsibility.You agree and understand that Kirakira Cam may need to carry out overhauling or maintenance regularly or irregularly for the product or the relevant facilities that provide services. We shall not bear any liability for any interruption of services (including charging network services) within the reasonable time due to the cases aforesaid. We reserves the right to suspend any part of the Service for the purposes of maintenance, upgrade or others without prior notice.
 
-3. You agree that the App is not responsible or liable for any content accessed from the App or third-party websites. You agree that you are solely responsible for (and that the App has no responsibility to you or to any third party for) your use of the App.
+## 2. Use of the Services
 
-4. You acknowledge that the App may communicate with our servers from time to time to check for updates to the App, such as bug fixes, patches, enhanced functions, missing plug-ins and new versions. By installing the App, you agree to such automatically requested and received updates.
+Except as expressly provided in this agreement, no part of the app and no Content may be copied, reproduced, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted or distributed in any way to any other computer, server, Web site or other medium for publication or distribution or for any commercial enterprise, without us express prior written consent.You are solely responsible for the user content that you post. We do not guarantee the accuracy, or integrity or quality of any user content posted by other users. You represent and warrant that the user content which you post and your use of the services shall not:
 
-5. You agree that we may stop (permanently or temporarily) providing the App (or any features within the App) to you or to users generally at our sole discretion, without prior notice to you. You agree that if we disable access to the App, you may be prevented from accessing the App or certain features within the App.
+* Cause harm to minors in any way;
 
-6. You may not distribute, publish, or send through an App: (1) any spam, including any unsolicited advertisements, solicitations, commercial messages, informational announcements, or promotional messages of any kind; (2) chain mail; (3) numerous copies of the same or substantially similar messages; (4) empty messages; (5) messages that contain no substantive content; (6) very large messages or files that disrupt a server, account, newsgroup, or chat service; or (7) any message that is categorized as 'phishing'.
+* Be used to intentionally or unintentionally contravene or in any way not comply with regional, national and international law;
 
-## 2. Intellectual Property Rights
-1. The App, and all content included on or within the App, such as the user interface, the compilation of the content and arrangement of the website, and all text, graphics, pictures, sound, video, data, applications and other content, is the property of us, our licensors or content suppliers and is protected by copyright and other intellectual property laws. Reproduction or redistribution of such content except as expressly permitted by these Terms of Use is prohibited.
-2. We grant you a personal revocable, non-exclusive,non-transferable license to access and make personal use of our App. You may not download, reverse engineer, decompile, disassemble, or modify it, or any portion of it, except with our express written consent. The App may not be copied, sold, resold or otherwise exploited for any commercial purpose without our express written consent. You may not link, frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of the App without our prior written consent. Your unauthorized use of the App will immediately terminate the limited license granted by the App.
+* Breach, violate or infringe in any way upon the intellectual property rights of any third party;
+
+* Intimidate, stalk, mock, lambast, scare, pervert, or otherwise harass another individual;
+
+* Overburden, damage or impair the operation of the App, Website or the Services;
+
+* Impersonate any person or entity or to falsely state or otherwise misrepresent your affiliation with any person or entity;
+
+* Harvest or collect email addresses or other personal information from other users for any purpose whatsoever, including but not limited to sending unsolicited emails or messages;
+
+* Unless otherwise stated, all materials contained within the app, as well as the content arrangement and selection, are protected by copyright, trademark, and other intellectual property laws. We does not grant any express or implied right to use this intellectual property.
+
+During your use of the service, we may send you service announcements, management messages, and other information. You may choose not to receive certain information on above.
 
 ## 3. No Warranties and Limitation of Liability
-1. the App does not warrant that the App, its functions, or content will be uninterrupted or error free, or that defects will be corrected. the App makes no representation or warranty as to the accuracy or fitness for use of any offers, advertisement or third party content presented in connection with the App. The App is provided on an 'as is' basis. You agree that your use of the App is at your sole risk.
-2. the App will not be liable to you for any damages of any kind arising from your use or inability to use the App. Our liability for monetary damages for any claims that you may have against us is limited to the amount you actually paid for the App.
+We take your privacy very seriously. We will collect and store your personal information according to Privacy Policy. Using our service means that you agree that your personal data can be used according to our privacy policy. Additionally, by using the app you acknowledge and agree that Internet transmissions are never completely private or secure. You understand that any message or information you send to the app may be read or intercepted by others, even if there is a special notice that a particular transmission (for example, pictures information) is encrypted.
 
 ## 4. Applicable Law and Dispute Resolution
-1. This agreement will not be governed by the conflict of law rules of any jurisdiction or the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. If you are a consumer, the choice of law only applies to the extent that there is no restriction with regard to mandatory rules of the country where you are domiciled or habitually resident.
-2. In the event a dispute arises between you and the App, we will use reasonable endeavours to resolve such dispute amicably.
-3. Any claim arising out of or in connection with your use of or inability to use the App must be brought within one (1) year after the event or such claim is barred.
+You acknowledge that all information, data, text, software, music, sound, photographs, graphics, video, messages, tags and/or other materials accessible through Kirakira Cam, whether publicly posted or privately transmitted (“Content”), are the sole responsibility of the party from whom such Content originated. We only provides you with the tool to take photos, edit photos and cannot control how you use the service. Therefore, the correctness, completeness or the quality of the content is not guaranteed. Under no circumstances shall Kirakira Cam be responsible for any content, but we will have the right to stop transmission of any such content and take corresponding actions according to law, including but not limited to suspending the user from using all or part of the service, keeping relevant records and reporting to relevant authorities.
 
-## 5. Changes
-1. These Terms of Use may be updated from time to time. You are advised to consult these Terms of Use regularly for any changes.These Terms of Use were updated on 12th March 2021.
+## 5. Fees and Subscription Terms
 
-## 6. Contact Information
-1. If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us by email: helpforapp1024@gmail.com .
+The basic version of the Kirakira Cam can be used completely free of charge. We also have a range of subscription options to best meet your needs. You can opt to subscribe for our Pro version to access Pro services and content. Our Fees are subject to different subscription plans, gift plans and promotions, and we, therefore, reserve the right to update our Fees from time to time.
+
+You acknowledge that, if we change the Fees, this will not affect your existing subscription, therefore, if you have signed up for subscription at a certain Fee, any Fee changes will not affect any current subscription or any Renewals.
+
+## 6. Modifying and Terminating our Services
+
+You understand and agree that the services are provided in accordance with existing technologies and conditions. The platform will do its best to provide services to users to ensure the consistency and security of services; But we can't foresee and prevent law, technology and other risks, including but not limited to force majeure, viruses, trojans, hacker attacks, system instability, third party service defects, government behavior and other reasons may lead to service interruptions, data loss and other loss and risk.
+
+We are constantly changing and improving our Services. We may add or remove functionalities or features, and we may suspend or stop a Service altogether. You can stop using our Services at any time, although we’ll be sorry to see you go. Kirakira Cam may also stop providing Services to you, or add or create new limits to our Services at any time.
+
+We reserve the right to modify, temporarily suspend or permanently delete your Account and terminate your access to the Services if we have reason to believe that you have breached or acted inconsistently with the Agreement. Following termination, your licence will be automatically revoked and we reserve the right to delete your account, erase all or any information on your Profile and discard any of your user content. You agree that we shall not be liable to you for any modification or discontinuance of the Service. We accept no liability for deletion of information or content from your Profile. You acknowledge and accept that certain user content may remain after the termination of your account and that the user content licence shall not be revoked or terminated. If you have an active Pro subscription when we terminate your Account, you will not receive a refund for any time remaining on your Pro subscription.
+
+## 7. Disclaimers
+
+Kirakira Cam will make reasonable efforts to provide services to ensure the continuity and security of the service. However, we does not provide complete assurance, including but not limited to:
+
+1. Kirakira Cam is not responsible for deletion or failure of your storage of relevant data in the Software and Services;
+
+2. The user shall be responsible for the risks beyond control of Kirakira Cam when using this app, including but not limited to:
+
+* Risks including failure for slow page opening speed caused by unstable wireless network signal, small wireless network bandwidth or other reasons.
+
+* Risks such as loss or leakage of personal information due to irresistible factors;
+
+* Any issues or damages arising from the failure of the user to choose the right software version matching the terminal device where the Software is installed;
+
+* Any risks or liabilities caused by others’ transmission or sharing of the content published by the user;
+
+YOU UNDERSTAND AND AGREE THAT Kirakira Cam DOES NOT PROMISE THAT THE APP OR ANY CONTENT, SERVICE OR FEATURE OF THE SITE WILL BE ERROR-FREE OR UNINTERRUPTED, OR THAT ANY DEFECTS WILL BE CORRECTED, OR THAT YOUR USE OF THE SITE WILL PROVIDE SPECIFIC RESULTS. THE APP AND ITS CONTENT ARE DELIVERED ON AN "AS-IS" AND "AS-AVAILABLE" BASIS. Kirakira CamDISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF ACCURACY, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. ALL INFORMATION PROVIDED ON THE APP IS SUBJECT TO CHANGE WITHOUT NOTICE. 
+
+## 8. Limitation of Liability
+
+When permitted by law, Kirakira Cam will not be responsible for lost profits, revenues, or data, financial losses or indirect, special, consequential, exemplary, or punitive damages. In all cases, Kirakira Cam will not be liable for any loss or damage that is not reasonably foreseeable. To the extent permitted by law,  for any claims under this agreement, including for any implied warranties, is limited to the amount you paid us to use the Services (or, if we choose, to supplying you the Services again). 
+
+## 9. General Information
+
+This agreement and  Privacy Policy control the relationship between us and you. They do not create any third-party beneficiary rights. If you do not comply with this agreement, and we don’t take actions right away, this doesn’t mean that we are giving up any rights that we may have (such as taking actions in the future). If it turns out that a particular term is not enforceable, this will not affect any other terms. The formation, entry into force, performance, interpretation and dispute settlement of this Agreement shall be governed by the laws of the Mainland of the People's Republic of China, without regard to the principles of conflict of laws. If any dispute arises between you and Kirakira Cam , the dispute shall be first resolved by negotiation; where the negotiation fails, you agree to submit the dispute to the people's court with jurisdiction at the signing place of this Agreement.
+
+If you should have inquires, you may contact the company at: 
+
+[helpforapp1024@gmail.com](helpforapp1024@gmail.com)
+
