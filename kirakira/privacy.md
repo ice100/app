@@ -2,7 +2,7 @@
 
 Effective date: March 08, 2021
 
-Kirakira Cam is dedicated to protecting the privacy of our users ("users" or "you"). This Privacy Policy (the "Policy") is meant to explain our practices regarding how we collect, store, use, manage and protect your user information (including your personal information) as a controller during your use of  application including all its features (the “Services").
+Kirakira Cam is dedicated to protecting the privacy of our users ("users" or "you"). This Privacy Policy (the "Policy") is meant to explain our practices regarding how we collect, store, use, manage and protect your user information (including your personal information) as a controller during your use of application including all its features (the “Services").
 
 Please note that the scope of this Policy is limited solely to your user information (including your personal information) collected or received  when you are using the Services. In this Policy, "personal information" refers to any information or combination of information that can be used to identify, contact or locate an individual to whom the collected information pertains. Such personal information may include email address,  images, geo-location, identifiable biological information and so on.
 

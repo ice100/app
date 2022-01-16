@@ -1,12 +1,14 @@
-### Information about the auto-renewable nature of the Pro Subscription
-___
-Last updated: August 1, 2021
 
-+ To use VIP, you should subscribe to our service.
-+ Your subscription automatically renews for $4.99 per month, $17.99 pre 6 months or $23.99 pre year at the end of 3-day trail period.
-+ Payment will be charged to your iTunes Account at confirmation of purchase.
-+ Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-+ Account will be charged for renewal within 24-hours prior to the end of the current period.
-+ Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.
-+ You can cancel your subscription via this url: https://support.apple.com/en-us/HT202039
-+ By using VIP, you accept our Terms of use and Private policy.
+### 有关订阅的自动更新性质的信息
+___
+最后更新：2021年8月1日
+
++ 要使用VIP功能，您应该订阅我们的服务。
++ 您的订阅会在3天试用期结束时以一年153￥，或直接每月￥18、每6个月80￥的价格自动续订。
++ 确认购买后，将从您的 iTunes 帐户中扣除款项。
++ 订阅会自动续订，除非在当前期间结束前至少 24 小时关闭自动续订。
++ 帐户将在当前期间结束前 24 小时内收取续订费用。
++ 当用户购买该出版物的订阅时，免费试用期的任何未使用部分将被没收。
++ 您可以通过以下网址取消订阅：https://support.apple.com/en-us/HT202039
++ 使用 VIP 即表示您接受我们的使用条款和隐私政策。
+
